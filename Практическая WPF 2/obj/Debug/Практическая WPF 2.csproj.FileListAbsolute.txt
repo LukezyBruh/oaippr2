@@ -1,0 +1,60 @@
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\bin\Debug\Практическая WPF 2.exe.config
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\bin\Debug\Практическая WPF 2.exe
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\bin\Debug\Практическая WPF 2.pdb
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.AssemblyReference.cache
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\MainWindow.g.cs
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\App.g.cs
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\Практическая WPF 2_MarkupCompile.cache
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\Практическая WPF 2_MarkupCompile.lref
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\MainWindow.baml
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\Практическая WPF 2.g.resources
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\Практическая_WPF_2.Properties.Resources.resources
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.GenerateResource.cache
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.CoreCompileInputs.cache
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\Практическая WPF 2.exe
+C:\Users\dima1\Desktop\Практическая WPF 2\Практическая WPF 2\obj\Debug\Практическая WPF 2.pdb
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\bin\Debug\Практическая WPF 2.exe.config
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\bin\Debug\Практическая WPF 2.exe
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\bin\Debug\Практическая WPF 2.pdb
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.AssemblyReference.cache
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\MainWindow.g.cs
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\App.g.cs
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2_MarkupCompile.cache
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2_MarkupCompile.lref
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\MainWindow.baml
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.g.resources
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая_WPF_2.Properties.Resources.resources
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.GenerateResource.cache
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.CoreCompileInputs.cache
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.exe
+F:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.pdb
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\bin\Debug\Практическая WPF 2.exe.config
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\bin\Debug\Практическая WPF 2.exe
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\bin\Debug\Практическая WPF 2.pdb
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.AssemblyReference.cache
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\MainWindow.g.cs
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\App.g.cs
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2_MarkupCompile.cache
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2_MarkupCompile.lref
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\MainWindow.baml
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.g.resources
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая_WPF_2.Properties.Resources.resources
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.GenerateResource.cache
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.CoreCompileInputs.cache
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.exe
+E:\Гуреева И.Д. ОАиП\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.pdb
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\bin\Debug\Практическая WPF 2.exe.config
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\bin\Debug\Практическая WPF 2.exe
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\bin\Debug\Практическая WPF 2.pdb
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.AssemblyReference.cache
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\MainWindow.g.cs
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\App.g.cs
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2_MarkupCompile.cache
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2_MarkupCompile.lref
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\MainWindow.baml
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.g.resources
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\Практическая_WPF_2.Properties.Resources.resources
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.GenerateResource.cache
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.csproj.CoreCompileInputs.cache
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.exe
+C:\Users\исп-23\Desktop\Практическая 18\Практическая WPF 2\obj\Debug\Практическая WPF 2.pdb
